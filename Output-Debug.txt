@@ -1,0 +1,4 @@
+﻿Auto-attach to process '[6136] [SQL] ADMIN-PC' on machine 'ADMIN-PC' succeeded.
+The thread 'ADMIN-PC [52]' (0x22c4) has exited with code 0 (0x0).
+The thread 'ADMIN-PC [52]' (0x22c4) has exited with code 0 (0x0).
+The program '[6136] [SQL] ADMIN-PC: ADMIN-PC' has exited with code 0 (0x0).
